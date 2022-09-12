@@ -1,0 +1,8 @@
+Esto es un título
+
+Esto es un título centrado
+
+Aquí va un párrafo con negrita, cursiva, subrayado y colores.
+Aquì añado un texto de prueba
+
+Y esto de arriba es la foto de unas Suricatas.
